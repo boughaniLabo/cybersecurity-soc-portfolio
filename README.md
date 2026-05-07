@@ -5,7 +5,7 @@ I am a SOC Analyst working in a real enterprise environment (banking SOC).
 My daily work involves monitoring security events, investigating incidents, and analyzing logs using tools such as SIEM, EDR, SOAR, and Active Directory environments.
 
 ## 🧠 Current Skills
-- SIEM Analysis (FortiSIEM / Splunk concepts)
+- SIEM Analysis (FortiSIEM )
 - Security Incident Investigation
 - Endpoint Detection (Kaspersky EDR)
 - Active Directory Security Concepts
